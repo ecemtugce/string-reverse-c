@@ -11,6 +11,6 @@ Bu C programı, kullanıcıdan alınan bir metni tersine çevirir ve ekrana yazd
 - Metindeki `\n` karakterini temizler (strcspn fonksiyonu ile).
 - Girilen metni tersine çevirir ve ekrana yazdırır.
 
- ``` ## 💻 Örnek Çalışma
+ ```💻 Örnek Çalışma
  enter a string please(most 50 character)= merhaba dunya
  aynud abahrem
